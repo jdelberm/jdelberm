@@ -10,7 +10,7 @@
 </p>
 <br/>
 <p align="center">
-  <i>You have to keep moving yourself along the course of the river to keep track of the technological advancement.</i>
+  <i>You have to keep moving yourself along the course of the river to keep track of the technological advancements.</i>
 </p>
 
 <h2><i>Currently</i></h2>
