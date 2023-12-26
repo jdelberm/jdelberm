@@ -1,8 +1,10 @@
 <h1 align="center">Welcome to my profile!</h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" alt="monkey coding"/>
+        <a href="https://imgur.com/7v14odg"><img width="500px" src="https://i.imgur.com/7v14odg.gif" title="source: imgur.com" /></a>
+        <img width="462px" src="https://media3.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" alt="monkey coding"/>
 </div>
+
 
 <h2><i>Actually</i></h2>
 <p>
