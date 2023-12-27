@@ -1,20 +1,23 @@
 <h1 align="center">Welcome to my profile!</h1>
-
 <div align="center">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VhdHlpYzcwYTk4dW8zeXFuc3pycXNxYzRjY3BzMGQwZGxxZnZtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/Cg9oeBXqFayCq26ggf/giphy.gif"/>
         <img width="462px" src="https://media3.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" alt="monkey coding"/>
 </div>
 
 
-<h2><i>Actually</i></h2>
+<h2><i>Actually...</i></h2>
 <p>
-  I am working as a SAP developer, but my goal is to break borders and expand my knoledge about different techs.
+  I am working as a SAP developer, but my goal is to break borders and expand my knoledge about different techs. I always felt curious about what will be the next steps, this is pretty much a never ending path where I always learn new different ways to accomplish my objectives.
 </p>
 <br/>
 <p align="center">
-  <i>You have to keep moving yourself along the course of the river to keep track of the technological advancements.</i>
+  <i>You have to keep pushing yourself out of your comfort zone.</i>
+</p>
+<p align="center">
+        <img width="100px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpeWxieGRvZGxwcHB4MzFvNG83bHRicXZicmZwZ284ZXozazhmdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0L5gm3lgGsgcBPHHj/giphy.gif"/>
 </p>
 
-<h2><i>Currently</i></h2>
+<h2><i>Currently...</i></h2>
 <p>
 I am a student of 42 school in Malaga, which is supported by Telefonica Foundation. Their main goal is to provide access to the technological fields to anyone who wish to form theirselves in any related field. There aren't previous knoledge requirements, just yourself, your dedication and your interest for what you and your teammates are doing.
 </p>
@@ -39,7 +42,9 @@ I am a student of 42 school in Malaga, which is supported by Telefonica Foundati
   <img width="50px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="VS Code"/>
 </div>
 
-<h2 align="center">If you want to get in touch with me...</h2>
+<p>I am developing my skills with Astro for filling that void in terms of UI development. I've already tried Angular but also want to give a shot to frameworks that could be used in combination with React. These are so close and so far at the same time, that pretty much feels like starting from 0 for me, but hey, that's how it works sometimes!</p>
+
+<h2 align="center">Contact me</h2>
 <div align="center">
   <a href="https://es.linkedin.com/in/juan-de-dios-delgado-berm%C3%BAdez-4a2b90160">
     <img width="75px" src="https://www.svgrepo.com/show/448234/linkedin.svg" title="Linkedin"/>
