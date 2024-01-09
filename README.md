@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my profile!</h1>
 <div align="center">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VhdHlpYzcwYTk4dW8zeXFuc3pycXNxYzRjY3BzMGQwZGxxZnZtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/Cg9oeBXqFayCq26ggf/giphy.gif"/>
-        <img width="462px" src="https://media3.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" alt="monkey coding"/>
 </div>
 
 
