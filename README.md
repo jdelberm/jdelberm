@@ -4,7 +4,7 @@
 </div>
 
 
-<h2><i>Actually...</i></h2>
+<h2><i>Currently</i></h2>
 <p>
   I am working as a SAP developer, but my goal is to break borders and expand my knoledge about different techs. I always felt curious about what will be the next steps, this is pretty much a never ending path where I always learn new different ways to accomplish my objectives.
 </p>
@@ -14,11 +14,6 @@
 </p>
 <p align="center">
         <img width="100px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpeWxieGRvZGxwcHB4MzFvNG83bHRicXZicmZwZ284ZXozazhmdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0L5gm3lgGsgcBPHHj/giphy.gif"/>
-</p>
-
-<h2><i>Currently...</i></h2>
-<p>
-I am a student of 42 school in Malaga, which is supported by Telefonica Foundation. Their main goal is to provide access to the technological fields to anyone who wish to form theirselves in any related field. There aren't previous knoledge requirements, just yourself, your dedication and your interest for what you and your teammates are doing.
 </p>
 
 <h2>I've dived into the following...</h2>
