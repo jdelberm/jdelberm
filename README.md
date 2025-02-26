@@ -1,19 +1,8 @@
 <h1 align="center">Welcome to my profile!</h1>
-<div align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VhdHlpYzcwYTk4dW8zeXFuc3pycXNxYzRjY3BzMGQwZGxxZnZtcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/Cg9oeBXqFayCq26ggf/giphy.gif"/>
-</div>
-
 
 <h2><i>Currently</i></h2>
 <p>
   I am working as a SAP developer, but my goal is to break borders and expand my knoledge about different techs. I always felt curious about what will be the next steps, this is pretty much a never ending path where I always learn new different ways to accomplish my objectives.
-</p>
-<br/>
-<p align="center">
-  <i>You have to keep pushing yourself out of your comfort zone.</i>
-</p>
-<p align="center">
-        <img width="100px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJpeWxieGRvZGxwcHB4MzFvNG83bHRicXZicmZwZ284ZXozazhmdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/l0L5gm3lgGsgcBPHHj/giphy.gif"/>
 </p>
 
 <h2>I've dived into the following...</h2>
