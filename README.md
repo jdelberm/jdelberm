@@ -36,14 +36,4 @@
   <img width="50px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="VS Code"/>
 </div>
 
-<p>I am developing my skills with Astro for filling that void in terms of UI development. I've already tried Angular but also want to give a shot to frameworks that could be used in combination with React. These are so close and so far at the same time, that pretty much feels like starting from 0 for me, but hey, that's how it works sometimes!</p>
-
-<h2 align="center">Contact me</h2>
-<div align="center">
-  <a href="https://es.linkedin.com/in/juan-de-dios-delgado-berm%C3%BAdez-4a2b90160">
-    <img width="75px" src="https://www.svgrepo.com/show/448234/linkedin.svg" title="Linkedin"/>
-  </a>
-  <a href="mailto:jdelgado.berm@gmail.com">
-    <img width="75px" src="https://www.svgrepo.com/show/282130/mail.svg" title="Mail"/>
-  </a>
-</div>
+<p>I am developing my skills with Astro for filling that void in terms of UI development. I've already tried Angular but also want to give a shot to frameworks that could be used in combination with React. These are so close and so far at the same time, that pretty much feels like starting from 0 for me, but hey, that's how it works sometimes!</p
